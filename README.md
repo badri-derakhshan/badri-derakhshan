@@ -30,15 +30,13 @@ I am always eager to work on challenging tasks.
 </p>
 
 
-- Build **ReactJs - Typescript** front end for <b>Web Application</b> for business communication platform. you can find some handy hooks <a href="https://gist.github.com/hamidjafari/ad000722788243016c5e2606377b82dc">here</a> I made it in this project 
+- Build **ReactJs - Typescript** front end for <b>Web Application</b> for business communication platform
 
 - Test **ReactJs - Typescript** <b>Web Application</b> nightwatch for e2e testing
 
 - Build **NextJs - Typescript** <b>Web and Mobile Application</b> for e-commerce platform
 
 - Test **NextJs - Typescript** <b>Web Application</b> jest and react testing library in cunjunction with cypress for e2e testing
-
-- Build **ReactJs** front end for <b>Web Application </b> for wholesale bussines. because of the type of the bussines we had to load lot of photos on the pages so we made  <a href="https://gist.github.com/hamidjafari/155d587e2da341871e4091c3c8433648">this</a> hook for lazy load photos 
 
 - Build **React Native** for <b>Android / IOS native application</b> for wholesale bussines for managing sales and store. in this application we had chat feature and realtime background sync for up-to-date price list using custom socket adapter .
 
